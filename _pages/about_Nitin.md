@@ -1,1 +1,2 @@
-Chester F. Carlson Center for Imaging Science
+Nitin Negi
+PhD student (rotation)
