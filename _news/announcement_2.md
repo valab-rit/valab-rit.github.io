@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have officially moved to RIT! 
+Ben has officially moved to RIT! 
