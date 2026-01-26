@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lab-logo.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p> </p>
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an Assistant Professor of Imaging Science at the <a href="https://www.rit.edu/science/chester-f-carlson-center-imaging-science">Chester F. Carlson Center for Imaging Science</a> at the Rochester Institute of Technology (RIT). 
+We are a vision science lab led by Dr. Ben Chin at the <a href="https://www.rit.edu/science/chester-f-carlson-center-imaging-science">Chester F. Carlson Center for Imaging Science</a> at the Rochester Institute of Technology (RIT). 
 
-I am on the lookout for graduate students and may be able to fund a postdoc in the near future--if you are looking for a lab to join, consider checking out my <a href="https://valab-rit.github.io/projects/">research</a> and <a href="https://valab-rit.github.io/publications/">publications</a> to decide whether we might be a good fit! I specialize in the study of human vision--both the perceptual and oculomotor aspects of it. 
+We are on the lookout for graduate students--if you are looking for a lab to join, consider checking out our <a href="https://valab-rit.github.io/projects/">research</a> and <a href="https://valab-rit.github.io/publications/">publications</a> to decide whether we might be a good fit! We specialize in the study of human vision--both the perceptual and oculomotor aspects of it. 
 
-You may reach me via email at bmccis [AT] rit [DOT] edu. 
+You may reach the PI via email at bmccis [AT] rit [DOT] edu. 
