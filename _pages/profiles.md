@@ -21,9 +21,11 @@ profiles:
     content: about_Yangyi
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Chester F. Carlson Center for Imaging Science</p>
   - align: left
     image:
     content: about_Nitin
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Chester F. Carlson Center for Imaging Science</p>
 ---
