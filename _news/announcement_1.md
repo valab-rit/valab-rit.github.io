@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-5-16 15:45
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I recently gave a talk about my work on visual accommodation and chromatic aberration at the Annual Meeting of the Vision Sciences Society 2025 ('Determining wavelength-in-focus for polychromatic visual stimuli'). 

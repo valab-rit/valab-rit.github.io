@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: In my new lab, I plan to study visuomotor behavior in human beings. I am particularly interested in visual accommodation, which refers to the act of focusing the lens in the eyeball. I am also interested in hand-eye coordination during manual tracking of moving objects.  The links below illustrate a mix of recently-completed projects as well as ongoing ones. The first link describes my most recent project, which is nearly complete and gives the best idea of my future research plans. 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 

@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:  
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an Assistant Professor of Imaging Science at the <a href="https://www.rit.edu/science/chester-f-carlson-center-imaging-science">Chester F. Carlson Center for Imaging Science</a> at the Rochester Institute of Technology (RIT). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am on the lookout for graduate students and may be able to fund a postdoc in the near future--if you are looking for a lab to join, consider checking out my <a href="https://benchinny.github.io/projects/">research</a> and <a href="https://benchinny.github.io/publications/">publications</a> to decide whether we might be a good fit! I specialize in the study of human vision--both the perceptual and oculomotor aspects of it. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You may reach me via email at bmccis [AT] rit [DOT] edu. 
