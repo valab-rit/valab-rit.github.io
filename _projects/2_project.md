@@ -1,81 +1,36 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Temporal processing in the visual system
+description: Probing how color signals in the visual system are combined across time
+img: assets/img/colorfulClock.jpeg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Signals in the human visual system typically vary in temporal latency (delay) and integration period depending on the type of information they carry. For example, in color processing, the short-wavelength-sensitive cone photoreceptors in the retina have longer latencies and integration periods than the long-wavelength-sensitive cones. During vision, both types of cones are modulated simultanously. How are their signals combined across time during motion? The answer is not straightforward. Does the visual system wait for all information to arrive, or does it compute motion with partial information? 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+To address this question, we leverage a classic visual illusion, the Pulfrich effect. Using a device known as a haploscope, we present moving bars that have different colors between the left and right eyes to participants. These color differences between the eyes cause different processing latencies between the eyes. Because the bars are moving, the processing latencies create a binocular disparity signal, causing participants to misperceive the depth of the stimulus. 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/PLSmainFig.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A) Different color signals are 'received' by the visual system at different times even when they originate from the same object. When they are combined, what is the latency of the combined signal? B) To make the diagram more realistic, we represent the fact that visual signals are not punctuate in time, but rather evolve over time. C) When each of a participant's eyes receives a moving bar stimulus with a different color, they may misperceive the depth of the bar due to different temporal processing between the eyes. 
+</div>
+
+From the magnitude of the Pulfrich effect, we inferred the processing delays and 'damping' due to temporal integration associated with different color stimuli. As the contrast of the S-cone modulation increases, both the delay and damping of the combined signal increase. Our results suggest that during motion perception, the combined motion signal does not wait for all information to arrive from the slower (more delayed) S-cone channel, but the extent to which it discards the information depends on the contrast of the S-cone component of the stimulus. 
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/PLSdelays.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/PLSdamping.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Delay (left), and damping (right) as a function of contrast in the S-cone modulation of a stimulus composed of both L- and S-cone modulations. 
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
