@@ -22,4 +22,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Chester F. Carlson Center for Imaging Science</p>
+  - align: left
+    image: placeholder_prof_pic.png
+    content: about_Nitin.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Chester F. Carlson Center for Imaging Science</p>	  
 ---
