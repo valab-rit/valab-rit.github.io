@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: lab_logo.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p> </p>
     <p> </p>
