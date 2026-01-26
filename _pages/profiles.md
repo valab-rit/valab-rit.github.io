@@ -17,13 +17,13 @@ profiles:
       <p>Chester F. Carlson Center for Imaging Science</p>
       <p>Office 3112</p>
   - align: left
-    image:
+    image: placeholder_prof_pic.png
     content: about_Yangyi
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Chester F. Carlson Center for Imaging Science</p>
   - align: left
-    image:
+    image: placeholder_prof_pic.png
     content: about_Nitin
     image_circular: false # crops the image to make it circular
     more_info: >
