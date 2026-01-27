@@ -17,7 +17,7 @@ profiles:
       <p>Chester F. Carlson Center for Imaging Science</p>
       <p>Office 3112</p>
   - align: left
-    image: placeholder_prof_pic.png
+    image: prof_pic_yangyi.jpg
     content: about_Yangyi.md
     image_circular: false # crops the image to make it circular
     more_info: >
