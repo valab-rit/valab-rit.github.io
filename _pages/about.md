@@ -29,6 +29,6 @@ latest_posts:
 
 We are a vision science lab led by <a href="https://www.rit.edu/science/directory/bmccis-benjamin-chin">Dr. Ben Chin</a> at the <a href="https://www.rit.edu/science/chester-f-carlson-center-imaging-science">Chester F. Carlson Center for Imaging Science</a> at the Rochester Institute of Technology (RIT). 
 
-We are on the lookout for graduate students! If you are looking for a lab to join, consider checking out our <a href="https://valab-rit.github.io/projects/">research</a> and <a href="https://valab-rit.github.io/publications/">publications</a> to decide whether we might be a good fit! We specialize in the study of human vision--both the perceptual and oculomotor aspects of it. 
+We are on the lookout for graduate students! If you are looking for a lab to join, consider checking out our <a href="https://valab-rit.github.io/projects/">research</a> and <a href="https://valab-rit.github.io/publications/">publications</a> to decide whether we might be a good fit. We specialize in the study of human vision--both the perceptual and oculomotor aspects of it. 
 
 You may reach the PI via email at bmccis [AT] rit [DOT] edu. 
