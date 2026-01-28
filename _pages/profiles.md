@@ -14,18 +14,18 @@ profiles:
     content: about_Ben.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Chester F. Carlson Center for Imaging Science</p>
-      <p>Office 3112</p>
+      <p>Benjamin Chin</p>
+      <p>Office 3112, Chester F. Carlson Center for Imaging Science</p>
   - align: left
     image: prof_pic_yangyi.jpg
     content: about_Yangyi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Chester F. Carlson Center for Imaging Science</p>
+      <p>Yangyi Shi</p>
   - align: left
     image: placeholder_prof_pic.png
     content: about_Nitin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Chester F. Carlson Center for Imaging Science</p>	  
+      <p>Nitin Negi</p>	  
 ---
