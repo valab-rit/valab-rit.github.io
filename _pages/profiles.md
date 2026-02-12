@@ -24,7 +24,7 @@ profiles:
       <p>Yangyi Shi,</p>
       <p>Postdoc</p>
   - align: left
-    image: placeholder_prof_pic.png
+    image: Nitin_prof_pic.jpg
     content: about_Nitin.md
     image_circular: false # crops the image to make it circular
     more_info: >
