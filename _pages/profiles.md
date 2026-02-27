@@ -30,4 +30,11 @@ profiles:
     more_info: >
       <p>Nitin Negi,</p>
       <p>PhD student</p>
+  - align: left
+    image: prof_pic_jacob.png
+    content: about_Jacob.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Jacob Murray,</p>
+      <p>Undergraduate research assistant</p>
 ---
