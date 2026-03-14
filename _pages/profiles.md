@@ -24,10 +24,17 @@ profiles:
       <p>Yangyi Shi,</p>
       <p>Postdoc</p>
   - align: left
-    image: placeholder_prof_pic.png
+    image: Nitin_prof_pic.jpg
     content: about_Nitin.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Nitin Negi,</p>
       <p>PhD student</p>
+  - align: left
+    image: prof_pic_jacob.png
+    content: about_Jacob.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Jacob Murray,</p>
+      <p>Undergraduate research assistant</p>
 ---
