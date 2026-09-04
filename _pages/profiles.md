@@ -31,6 +31,13 @@ profiles:
       <p>Nitin Negi,</p>
       <p>PhD student</p>
   - align: left
+    image: placeholder_prof_pic.png
+    content: about_Meg.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Meg Borek,</p>
+      <p>PhD student (rotation)</p>	  
+  - align: left
     image: prof_pic_jacob.png
     content: about_Jacob.md
     image_circular: false # crops the image to make it circular
